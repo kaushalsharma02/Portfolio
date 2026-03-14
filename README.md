@@ -97,7 +97,7 @@ Specialization: Machine Learning & Software Development
 
 If you'd like to connect or collaborate:
 
-* 📧 Email: [ks67781345@gmail.com](mailto:your_email@gmail.com)
+* 📧 Email: [ks6778136@gmail.com](mailto:your_email@gmail.com)
 * 💻 GitHub: https://github.com/kaushalsharma02
 * 🔗 LinkedIn: https://linkedin.com/in/kaushalsharma
 
