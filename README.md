@@ -26,6 +26,8 @@ I enjoy working on:
 You can view my portfolio here:
 
 👉 **https://kaushalsharma02.github.io/portfolio/**
+kaushalsharma.netlify.app
+
 
 ---
 
